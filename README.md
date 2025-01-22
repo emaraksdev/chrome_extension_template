@@ -1,2 +1,2 @@
-# chrome_extension_template
+# Chrome extension template
 Template for chrome extensions.
